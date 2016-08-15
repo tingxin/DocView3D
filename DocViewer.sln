@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E8FCDC3E-FDD8-9DCF-AE91-98CB2F44CA8E}") = "DocViewer", "Assembly-CSharp.csproj", "{7A99D7E4-3129-01DA-9EA9-925792AAAA36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A99D7E4-3129-01DA-9EA9-925792AAAA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A99D7E4-3129-01DA-9EA9-925792AAAA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A99D7E4-3129-01DA-9EA9-925792AAAA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A99D7E4-3129-01DA-9EA9-925792AAAA36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
