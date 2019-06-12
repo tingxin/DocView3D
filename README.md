@@ -1,4 +1,4 @@
-# 3D Documents Viewer#
+# 3D Documents Viewer
 ## Des
 Simple viewer to view images series in Unity3d apps
 
